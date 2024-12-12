@@ -1,2 +1,2 @@
 # fastFood.website
-Pizza web sitesi // live>>>> https://frolicking-smakager-536899.netlify.app/
+Pizza web sitesi // live>>>> https://melodious-conkies-d898b6.netlify.app/
