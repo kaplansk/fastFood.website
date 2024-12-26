@@ -1,3 +1,5 @@
+![Pizza](images/example.jpg)
+
 Pizza Website
 // live>>>> https://melodious-conkies-d898b6.netlify.app/
 This project is a responsive website designed for a pizza business. It showcases a clean and attractive layout to display the menu, special offers, and contact information for customers.
@@ -39,3 +41,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Enjoy exploring the Pizza Website! Feedback and contributions are welcome.
 
 
+(https://github.com/user-attachments/assets/9505710e-7a8f-49ff-8025-be3bfe4b8919)
