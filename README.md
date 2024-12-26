@@ -1,4 +1,4 @@
-![Pizza](images/example.jpg)
+![Pizza](images/example.png)
 
 Pizza Website
 // live>>>> https://melodious-conkies-d898b6.netlify.app/
